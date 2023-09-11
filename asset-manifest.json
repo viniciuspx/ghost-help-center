@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ghost-help-center/static/css/main.ec62244c.css",
+    "main.js": "/ghost-help-center/static/js/main.b78880f9.js",
+    "static/js/787.0e65bc35.chunk.js": "/ghost-help-center/static/js/787.0e65bc35.chunk.js",
+    "index.html": "/ghost-help-center/index.html",
+    "main.ec62244c.css.map": "/ghost-help-center/static/css/main.ec62244c.css.map",
+    "main.b78880f9.js.map": "/ghost-help-center/static/js/main.b78880f9.js.map",
+    "787.0e65bc35.chunk.js.map": "/ghost-help-center/static/js/787.0e65bc35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec62244c.css",
+    "static/js/main.b78880f9.js"
+  ]
+}
