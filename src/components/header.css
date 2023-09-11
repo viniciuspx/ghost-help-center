@@ -1,0 +1,25 @@
+header {
+    background-color: black;
+    font-family: Arial;
+    height: 70px;
+    text-align: left;
+    font-weight: bold;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.header-text{
+    color: white;
+    margin-left: 80px;
+    font-size: 18px;
+    width: fit-content;
+    display: flex;
+}
+
+.header-buttons{
+    width: fit-content;
+    height: fit-content;
+    align-self:center;
+    margin-right: 80px;
+}

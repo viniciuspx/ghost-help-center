@@ -1,0 +1,28 @@
+.header {
+  padding-left: 15px;
+  padding-right: 15px;
+  height: 40px;
+  border-radius: 6px;
+  margin: 2.5px;
+  font-size: 20px;
+  color: white;
+  background-color: black;
+  border: solid 1.5px white;
+}
+
+.sign-in {
+  padding-left: 15px;
+  padding-right: 15px;
+  height: 40px;
+  border-radius: 6px;
+  margin: 2.5px;
+  font-size: 20px;
+  color: white;
+  background-color: #4C5FD5;
+  border: 0px;
+}
+
+.header:hover, .sign-in:hover {
+  background-color: white;
+  color: black;
+}

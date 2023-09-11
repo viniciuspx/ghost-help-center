@@ -1,0 +1,8 @@
+img {
+    object-fit: contain;
+}
+
+.img-d {
+    margin: auto;
+    display: flex;
+}

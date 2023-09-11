@@ -1,0 +1,29 @@
+.content-block{
+    width: 450px;
+    height: 150px;
+    margin: auto;
+    display: flex;
+    justify-content: left;
+    flex: 49%;
+}
+
+.content-block h3{
+    flex: 2;
+}
+
+.content-block p{
+    flex: 2;
+    font-size: small;
+}
+
+.content-block a{
+    flex: 2;
+    color: black;
+    size: small;
+}
+
+@media screen and (max-width: 720px) {
+    .content-block{
+        flex: 100%;
+    }
+}
