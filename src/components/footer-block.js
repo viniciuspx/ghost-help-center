@@ -21,7 +21,7 @@ function FooterBlock(props) {
         <strong>Ghost 2023</strong>
       </h3>
       <div className="signature">
-        Site made as study case. Based on{" "}
+        Site made as a study case. Based on{" "}
         <a href="https://www.frontendpractice.com/projects/abstract">
           Abstract
         </a>
